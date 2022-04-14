@@ -1,11 +1,18 @@
 [tool.poetry]
-name = "comp1"
+name = "task2"
 version = "0.1.0"
 description = ""
 authors = ["Keviinplz <kevin.pinochet@ug.uchile.cl>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+jupyter = "^1.0.0"
+notebook = "^6.4.10"
+sklearn = "^0.0"
+pandas = "^1.4.2"
+nltk = "^3.7"
+aiohttp = {extras = ["speedups"], version = "^3.8.1"}
+aiofiles = "^0.8.0"
 
 [tool.poetry.dev-dependencies]
 

@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Kevin Pinochet Hernández
-- Inserte nombre... xd
+- Jose Tomas Vasquez Ochoa
 
 
 
