@@ -1,3 +1,6 @@
 .vscode
 .ipynb_checkpoints
 data
+predictions
+predictions.zip
+__pycache__
